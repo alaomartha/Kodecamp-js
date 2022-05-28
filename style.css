@@ -1,0 +1,26 @@
+.card{
+  border: 1 px solid white;
+  border-radius: 15px;
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+  align-content: center;
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 10%;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+}
+.card h1{
+  text-align: center;
+  margin-top: 5px;
+}
+.name-icon{
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.name-icon p{
+  margin-top: -3px;
+  opacity: 0.6;
+}
