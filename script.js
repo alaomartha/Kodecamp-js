@@ -48,6 +48,10 @@ console.log(num1%num2);
 
 // Q6
 
+let a = prompt('Enter a value for a');
+let b = prompt('Enter a value for b');
+let c = prompt('Enter a value for c');
+
 function quadraticEqn(a,b,c){
   let addition = ((-b + Math.sqrt(Math.pow(b,2)) - (4*a*c))-(2/a));
   let subtraction = ((-b - Math.sqrt(Math.pow(b,2)) - (4*a*c))-(2/a));
