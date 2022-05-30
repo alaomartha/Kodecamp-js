@@ -114,8 +114,8 @@ console.log(interest);
 
   // Data 2
   let meritNewWeight = 95;
-  let meritNewHeight = 1.88;
-  let nutJobNewHeight = 1.76;
+  let meritNewHeight = 1.76;
+  let nutJobNewHeight = 1.88;
   let nutJobNewWeight = 85;
 
   let newTestDataMerit = meritNewWeight/(meritNewHeight*meritNewHeight);
